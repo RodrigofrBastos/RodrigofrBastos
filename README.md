@@ -8,7 +8,7 @@ I'm a electrical engineer student at Senai Cimatec, currently in the begining of
 
 * 🌍  I'm based in Bahia
 * ✉️  You can contact me at [digofbastos@gmail.com](mailto:digofbastos@gmail.com)
-* 🧠  I'm learning C++, Arduino, Python & Java
+* 🧠  I'm learning C++, Arduino & Python
 
 ### Skills
 
