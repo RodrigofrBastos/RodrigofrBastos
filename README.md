@@ -6,9 +6,10 @@ Starting the basics of coding and eletronics!
 
 I'm a electrical engineer student at Senai Cimatec, currently in the begining of second year. I'm not a developer or either pro at any language, but always trying to improve myself and learn something new!
 
-* 🌍  I'm based in Bahia
+* 🌍  Living in Salvador
 * ✉️  You can contact me at [digofbastos@gmail.com](mailto:digofbastos@gmail.com)
 * 🧠  I'm learning C++, Arduino & Python
+* 📚  Currently learning about Computer Vision using OpenCv and python
 
 ### Skills
 
