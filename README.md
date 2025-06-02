@@ -8,16 +8,28 @@ I'm an Electrical Engineering student at **SENAI CIMATEC**. I'm passionate about
 
 - 🌍 Living in **Salvador, Brazil**
 - 📧 Contact me at: [digofbastos@gmail.com](mailto:digofbastos@gmail.com)
-- 💻 Currently developing **C++, Python, ROS, PX4**
+- 💻 Currently developing **C++, Python, ROS**
 - 🤖 Exploring **aerial robotics and soft manipulators** within the field of robotics.
 - 🔧 Interested in **SITL, UAVs and Robotics**
 
-### Skills
+### 🛠️ Skills & Tools
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <!-- Programming -->
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
+  
+  <!-- Robotics -->
+  <a href="https://www.ros.org/" target="_blank"><img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" /></a>
+  <a href="https://px4.io/" target="_blank"><img src="https://img.shields.io/badge/PX4-48C0A3?style=for-the-badge&logo=px4&logoColor=white" alt="PX4" /></a>
+  <a href="https://gazebosim.org/" target="_blank"><img src="https://img.shields.io/badge/Gazebo-2C5282?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" /></a>
+  
+  <!-- Electronics & CAD -->
+  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank"><img src="https://img.shields.io/badge/Fusion_360-FC7303?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" /></a>
 
+  <!-- Dev Tools -->
+  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
+  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux" /></a>
 </p>
 
 
