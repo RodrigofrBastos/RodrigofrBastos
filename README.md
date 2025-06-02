@@ -1,7 +1,7 @@
 Hi 👋 I'm Rodrigo
 ========================
 
-🚀 Electrical Engineering Student | Tech Enthusiast | Lifelong Learner
+🚀 Electrical Engineering Student | Tech Enthusiast
 ------------------------------------------------------------
 
 I'm an Electrical Engineering student at **SENAI CIMATEC**. I'm passionate about Robotics, and Open source movement. An aspiring developer, I am continuously learning, building, and refining my skills.ep.
@@ -26,6 +26,7 @@ I'm an Electrical Engineering student at **SENAI CIMATEC**. I'm passionate about
   
   <!-- Electronics & CAD -->
   <a href="https://www.autodesk.com/products/fusion-360/" target="_blank"><img src="https://img.shields.io/badge/Fusion_360-FC7303?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" /></a>
+  <a href="https://www.onshape.com/" target="_blank"><img src="https://img.shields.io/badge/Onshape-1B5FAA?style=for-the-badge&logo=onshape&logoColor=white" alt="Onshape"/></a>
 
   <!-- Dev Tools -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
