@@ -1,15 +1,16 @@
-Hi 👋 My name is Rodrigo
+Hi 👋 I'm Rodrigo
 ========================
 
-Starting the basics of coding and eletronics!
----------------------------------------------
+🚀 Electrical Engineering Student | Tech Enthusiast | Lifelong Learner
+------------------------------------------------------------
 
-I'm a electrical engineer student at Senai Cimatec, currently in the begining of second year. I'm not a developer or either pro at any language, but always trying to improve myself and learn something new!
+I'm an Electrical Engineering student at **SENAI CIMATEC**. I'm passionate about Robotics, and Open source movement. An aspiring developer, I am continuously learning, building, and refining my skills.ep.
 
-* 🌍  Living in Salvador
-* ✉️  You can contact me at [digofbastos@gmail.com](mailto:digofbastos@gmail.com)
-* 🧠  I'm learning C++, Arduino & Python
-* 📚  Currently learning about Computer Vision using OpenCv and python
+- 🌍 Living in **Salvador, Brazil**
+- 📧 Contact me at: [digofbastos@gmail.com](mailto:digofbastos@gmail.com)
+- 💻 Currently developing **C++, Python, ROS, PX4**
+- 🤖 Exploring **aerial robotics and soft manipulators** within the field of robotics.
+- 🔧 Interested in **SITL, UAVs and Robotics**
 
 ### Skills
 
