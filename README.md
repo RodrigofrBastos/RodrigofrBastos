@@ -32,7 +32,7 @@
 RODRIGO @ SENAI_CIMATEC:~$ _
 
 > cat profile.txt
-[CLASS]......... Electrical Engineering Student
+[CLASS]......... Electrical Engineer
 [LOCATION]...... Salvador, Bahia · BR
 [CURRENT_QUEST]. Aerial Robotics & Soft Manipulators
 [LOADOUT]....... C++ // Python // ROS
