@@ -1,58 +1,125 @@
-Hi 👋 I'm Rodrigo
-========================
+<div align="center">
 
-🚀 Electrical Engineering Student | Tech Enthusiast
-------------------------------------------------------------
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ANIMATED HEADER -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
-I'm an Electrical Engineering student at **SENAI CIMATEC**. I'm passionate about Robotics, and Open source movement. An aspiring developer, I am continuously learning, building, and refining my skills.ep.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=%3E+HELLO_WORLD.exe;%3E+PLAYER_1%3A+RODRIGO;%3E+INSERT+COIN+TO+CONTINUE..." alt="Typing SVG" />
+</a>
 
-- 🌍 Living in **Salvador, Brazil**
-- 📧 Contact me at: [digofbastos@gmail.com](mailto:digofbastos@gmail.com)
-- 💻 Currently developing **C++, Python, ROS**
-- 🤖 Exploring **aerial robotics and soft manipulators** within the field of robotics.
-- 🔧 Interested in **SITL, UAVs and Robotics**
+```ascii
+ ██████╗  ██████╗ ██████╗ ██████╗ ██╗ ██████╗  ██████╗ 
+ ██╔══██╗██╔═══██╗██╔══██╗██╔══██╗██║██╔════╝ ██╔═══██╗
+ ██████╔╝██║   ██║██║  ██║██████╔╝██║██║  ███╗██║   ██║
+ ██╔══██╗██║   ██║██║  ██║██╔══██╗██║██║   ██║██║   ██║
+ ██║  ██║╚██████╔╝██████╔╝██║  ██║██║╚██████╔╝╚██████╔╝
+ ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝ 
+        [ ELECTRICAL ENGINEERING · ROBOTICS · OSS ]
+```
 
-### 🛠️ Skills & Tools
+![Visitor Count](https://komarev.com/ghpvc/?username=RodrigofrBastos&style=for-the-badge&color=00FF41&label=VISITORS)
+[![GitHub followers](https://img.shields.io/github/followers/RodrigofrBastos?style=for-the-badge&color=00FF41&labelColor=000000&logo=github)](https://github.com/RodrigofrBastos)
 
-<p align="left">
-  <!-- Programming -->
-  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
-  
-  <!-- Robotics -->
-  <a href="https://www.ros.org/" target="_blank"><img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" /></a>
-  <a href="https://px4.io/" target="_blank"><img src="https://img.shields.io/badge/PX4-48C0A3?style=for-the-badge&logo=px4&logoColor=white" alt="PX4" /></a>
-  <a href="https://gazebosim.org/" target="_blank"><img src="https://img.shields.io/badge/Gazebo-2C5282?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" /></a>
-  
-  <!-- Electronics & CAD -->
-  <a href="https://www.autodesk.com/products/fusion-360/" target="_blank"><img src="https://img.shields.io/badge/Fusion_360-FC7303?style=for-the-badge&logo=autodesk&logoColor=white" alt="Fusion 360" /></a>
-  <a href="https://www.onshape.com/" target="_blank"><img src="https://img.shields.io/badge/Onshape-1B5FAA?style=for-the-badge&logo=onshape&logoColor=white" alt="Onshape"/></a>
+</div>
 
-  <!-- Dev Tools -->
-  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Linux" /></a>
-</p>
+---
 
+## ╔══[ PLAYER STATS ]══╗
 
-### Socials
+```bash
+> whoami
+RODRIGO @ SENAI_CIMATEC:~$ _
 
-<p align="left">
-  <a href="https://www.github.com/RodrigofrBastos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-  <a href="https://www.linkedin.com/in/rodrigo-freire-bastos/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+> cat profile.txt
+[CLASS]......... Electrical Engineering Student
+[LOCATION]...... Salvador, Bahia · BR
+[CURRENT_QUEST]. Aerial Robotics & Soft Manipulators
+[LOADOUT]....... C++ // Python // ROS
+[INTERESTS]..... SITL · UAVs · Open Source
+[STATUS]........ ▓▓▓▓▓▓▓▓░░ LEARNING...
+```
 
-### Badges
+📧 **MAIL_SERVER:** [digofbastos@gmail.com](mailto:digofbastos@gmail.com)
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/RodrigofrBastos"><img src="https://github-readme-stats.vercel.app/api?username=RodrigofrBastos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="RodrigofrBastos's GitHub stats" /></a>
+## ╔══[ INVENTORY ]══╗
 
-<a href="http://www.github.com/RodrigofrBastos"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigofrBastos&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<div align="center">
 
-<a href="https://github.com/RodrigofrBastos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigofrBastos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### `> LANGUAGES`
+![Python](https://img.shields.io/badge/-PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000)
+![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41&labelColor=000000)
 
+### `> ROBOTICS_STACK`
+![ROS](https://img.shields.io/badge/-ROS-000000?style=for-the-badge&logo=ros&logoColor=00FF41&labelColor=000000)
+![PX4](https://img.shields.io/badge/-PX4-000000?style=for-the-badge&logo=px4&logoColor=00FF41&labelColor=000000)
+![Gazebo](https://img.shields.io/badge/-GAZEBO-000000?style=for-the-badge&logo=gazebo&logoColor=00FF41&labelColor=000000)
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-freire-bastos/)
+### `> CAD_TOOLS`
+![Fusion 360](https://img.shields.io/badge/-FUSION_360-000000?style=for-the-badge&logo=autodesk&logoColor=00FF41&labelColor=000000)
+![Onshape](https://img.shields.io/badge/-ONSHAPE-000000?style=for-the-badge&logo=onshape&logoColor=00FF41&labelColor=000000)
 
+### `> DEV_ENV`
+![Git](https://img.shields.io/badge/-GIT-000000?style=for-the-badge&logo=git&logoColor=00FF41&labelColor=000000)
+![Linux](https://img.shields.io/badge/-LINUX-000000?style=for-the-badge&logo=ubuntu&logoColor=00FF41&labelColor=000000)
+
+</div>
+
+---
+
+## ╔══[ HIGH SCORES ]══╗
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigofrBastos&show_icons=true&count_private=true&theme=chartreuse-dark&title_color=00FF41&text_color=00FF41&icon_color=00FF41&bg_color=000000&hide_border=false&border_color=00FF41" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigofrBastos&theme=chartreuse-dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=00FF41&border=00FF41" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigofrBastos&layout=compact&langs_count=8&title_color=00FF41&text_color=00FF41&icon_color=00FF41&bg_color=000000&border_color=00FF41&hide_border=false" />
+
+</div>
+
+---
+
+## ╔══[ ACHIEVEMENTS ]══╗
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RodrigofrBastos&theme=matrix&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## ╔══[ ACTIVITY GRAPH ]══╗
+
+[![Rodrigo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RodrigofrBastos&bg_color=000000&color=00FF41&line=00FF41&point=ffffff&area=true&hide_border=false&custom_title=COMMIT_HISTORY.LOG)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## ╔══[ CONNECT_TO_PLAYER ]══╗
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000)](https://www.linkedin.com/in/rodrigo-freire-bastos/)
+[![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000)](https://github.com/RodrigofrBastos)
+[![Gmail](https://img.shields.io/badge/-EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:digofbastos@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────┐
+│  > "BUILD. BREAK. LEARN. REPEAT."           │
+│  > PRESS [ ★ ] TO STAR A REPO               │
+│  > GAME OVER? NO. JUST GETTING STARTED.     │
+└─────────────────────────────────────────────┘
+```
+
+![Snake animation](https://github.com/RodrigofrBastos/RodrigofrBastos/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
