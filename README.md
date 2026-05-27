@@ -5,7 +5,7 @@
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=%3E+HELLO_WORLD.exe;%3E+PLAYER_1%3A+RODRIGO;%3E+INSERT+COIN+TO+CONTINUE..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=50&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=%3E+HELLO_WORLD.deb" alt="Typing SVG" />
 </a>
 
 ```ascii
@@ -39,8 +39,6 @@ RODRIGO @ SENAI_CIMATEC:~$ _
 [INTERESTS]..... SITL · UAVs · Open Source
 [STATUS]........ ▓▓▓▓▓▓▓▓░░ LEARNING...
 ```
-
-📧 **MAIL_SERVER:** [digofbastos@gmail.com](mailto:digofbastos@gmail.com)
 
 ---
 
@@ -77,16 +75,6 @@ RODRIGO @ SENAI_CIMATEC:~$ _
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigofrBastos&theme=chartreuse-dark&background=000000&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakNum=00FF41&currStreakLabel=00FF41&sideNums=00FF41&sideLabels=00FF41&dates=00FF41&border=00FF41" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigofrBastos&layout=compact&langs_count=8&title_color=00FF41&text_color=00FF41&icon_color=00FF41&bg_color=000000&border_color=00FF41&hide_border=false" />
-
-</div>
-
----
-
-## ╔══[ ACHIEVEMENTS ]══╗
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RodrigofrBastos&theme=matrix&no-frame=false&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
