@@ -15,7 +15,7 @@
  ██╔══██╗██║   ██║██║  ██║██╔══██╗██║██║   ██║██║   ██║
  ██║  ██║╚██████╔╝██████╔╝██║  ██║██║╚██████╔╝╚██████╔╝
  ╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝  ╚═════╝ 
-        [ ELECTRICAL ENGINEERING · ROBOTICS · OSS ]
+        [ ELECTRICAL ENGINEERING · ROBOTICS ]
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=RodrigofrBastos&style=for-the-badge&color=00FF41&label=VISITORS)
@@ -29,14 +29,14 @@
 
 ```bash
 > whoami
-RODRIGO @ SENAI_CIMATEC:~$ _
+RODRIGO @ PRONTO:~$ _
 
 > cat profile.txt
 [CLASS]......... Electrical Engineer
-[LOCATION]...... Salvador, Bahia · BR
-[CURRENT_QUEST]. Aerial Robotics & Soft Manipulators
+[LOCATION]...... Belo Horizonte, Minas Gerais · BR
+[CURRENT_QUEST]. AHS & Path Planning
 [LOADOUT]....... C++ // Python // ROS
-[INTERESTS]..... SITL · UAVs · Open Source
+[INTERESTS]..... SITL · Sel Driving Vehicles · Open Source
 [STATUS]........ ▓▓▓▓▓▓▓▓░░ LEARNING...
 ```
 
